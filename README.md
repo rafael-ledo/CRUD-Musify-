@@ -1,3 +1,5 @@
 # CRUD-Musify-
 Link do Vídeo de apresentação das funcionalidades: https://youtu.be/FSwOUDfPBIU
-## Integrantes:
+## Integrantes T01 PF:
+- Rafael Gomes Bonfim Lédo
+- 
